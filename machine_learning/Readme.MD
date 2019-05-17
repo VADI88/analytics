@@ -1,0 +1,1 @@
+## Excerises related to Hands-on Machine Learning with scilit-learn and tensorflow 
