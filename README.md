@@ -1,2 +1,3 @@
-# analytics
-All my data science work / learning 
+# Analytics
+
+> All my data science work / learning
